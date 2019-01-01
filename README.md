@@ -1,6 +1,17 @@
 # DR. RID
 ## The Dirty Rotten Reddit Image Downloader
 
+# NOTICE! THIS REPO HAS MOVED!
+### This repo has moved to GitLab.
+
+I'm slowly migrating my projects to GitLab as I update them. You can find the current version of this repo at:
+
+[DR. RID on GitLab](https://gitlab.com/cyberpunklibrarian/drrid)
+
+https://gitlab.com/cyberpunklibrarian/drrid
+
+---
+
 ### Description
 
 This is a simple Python 3 script written to scratch my own itch. As an image junky, I save a bunch of images to my saved posts on Reddit. Downloading them later takes way too much time so I decided to write a Python script to help move things along and that's where this thing came from.
